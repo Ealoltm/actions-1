@@ -13,4 +13,4 @@ jobs:
               run: ls 
 
             - name: Execute shell script
-              run: ./ascii-scrit.sh
+              run: ./ascii-script.sh
